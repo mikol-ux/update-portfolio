@@ -21,7 +21,7 @@ export default function ServiceCard({
         <h3 className="con-text-xl font-semibold text-white mb-2 text-center">
           {service.title}
         </h3>
-        <p className="con-text-lg text-gray-600 dark:text-gray-400 text-center">
+        <p className="con-text-lg text-gray-400 text-center">
           {service.description}
         </p>
       </div>
