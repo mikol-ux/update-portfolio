@@ -8,9 +8,10 @@ const data = [
           Planning & Strategy
         </span>
         <p className="con-text-md">
-          We'll collaborate to map out your website's <b>goals</b>,{" "}
-          <b>target audience</b>, and <b>key functionalities</b>. We'll discuss
-          things like site structure, navigation, and content requirements.
+          We&apos;ll collaborate to map out your website&apos;s <b>goals</b>,{" "}
+          <b>target audience</b>, and <b>key functionalities</b>. We&apos;ll
+          discuss things like site structure, navigation, and content
+          requirements.
         </p>
       </div>
     ),
@@ -40,8 +41,8 @@ const data = [
 
         <p className="con-text-md">
           This is where the <b>magic happens</b>! Based on the approved design,
-          I'll translate everything into <b>functional code</b>, building your
-          website from the ground up.
+          I&apos;ll translate everything into <b>functional code</b>, building
+          your website from the ground up.
         </p>
       </div>
     ),

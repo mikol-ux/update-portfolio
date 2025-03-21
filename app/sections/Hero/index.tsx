@@ -25,7 +25,7 @@ export default function Hero() {
         <div className="space-y-6 text-center md:text-left md:basis-[60%] p-10 lg:pl-[160px]">
           <h1 className="con-text-2xl font-bold">Hello!</h1>
           <h2 className="con-text-xl">
-            I'm <span className="text-gray-400">Nandana...</span>
+            I&apos;m <span className="text-gray-400">Nandana...</span>
           </h2>
           <p className="text-gray-400 max-w-md md:max-w-lg mx-auto md:mx-0 text-base md:text-lg con-text-lg">
             Passionate UI/UX designer creating intuitive, user-friendly digital
@@ -33,7 +33,7 @@ export default function Hero() {
           </p>
           <div className="flex flex-col items-center sm:flex-row space-y-3 sm:space-y-0 sm:space-x-4 mt-6">
             <button className="con-text-lg px-6 py-3 border border-gray-400 rounded-full text-white hover:bg-white hover:text-black transition">
-              Let's Talk..!
+              Let&apos;s Talk..!
             </button>
             <button className="con-text-lg px-6 py-3 bg-white text-black rounded-full font-semibold hover:bg-gray-300 transition">
               View My Work
