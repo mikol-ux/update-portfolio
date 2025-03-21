@@ -15,7 +15,7 @@ export default function ServiceCard({
             alt={service.title}
             width={60}
             height={60}
-            className="dark:invert"
+            className="invert"
           />
         </div>
         <h3 className="con-text-xl font-semibold text-white mb-2 text-center">
