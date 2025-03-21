@@ -1,4 +1,3 @@
-import { motion } from "framer-motion";
 import { FaReact, FaNodeJs } from "react-icons/fa";
 import {
   SiRedux,

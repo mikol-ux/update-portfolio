@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Hero from "./sections/Hero";
 import Services from "./sections/Myservices";
 import TechStack from "./sections/skills";

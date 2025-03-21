@@ -1,8 +1,3 @@
-"use client";
-import { useEffect, useRef } from "react";
-import { motion, useAnimation, useInView } from "framer-motion";
-import Tools from "@/app/components/Skills";
-import { div } from "motion/react-client";
 import { Timeline } from "@/app/components/ui/Timeline";
 const data = [
   {

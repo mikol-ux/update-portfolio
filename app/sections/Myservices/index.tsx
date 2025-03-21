@@ -1,5 +1,4 @@
 import ServiceCard from "@/app/components/Servicecard/Card";
-import Image from "next/image";
 
 const services = [
   {
