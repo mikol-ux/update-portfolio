@@ -31,8 +31,8 @@ export default function Services() {
   return (
     <section className="contained bg-black">
       <div className="text-center mb-12">
-        <h2 className="text-4xl font-semibold">My Services</h2>
-        <p className="text-2xl text-gray-600 mt-2 max-w-2xl mx-auto">
+        <h2 className="text-4xl font-semibold text-white">My Services</h2>
+        <p className="text-2xl text-gray-400 mt-2 max-w-2xl mx-auto">
           I specialize in creating intuitive designs, modern websites, and
           engaging digital experiences.
         </p>
